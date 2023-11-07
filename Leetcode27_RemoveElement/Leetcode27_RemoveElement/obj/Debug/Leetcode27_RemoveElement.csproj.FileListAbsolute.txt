@@ -1,0 +1,6 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\bin\Debug\Leetcode27_RemoveElement.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\bin\Debug\Leetcode27_RemoveElement.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\bin\Debug\Leetcode27_RemoveElement.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\obj\Debug\Leetcode27_RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\obj\Debug\Leetcode27_RemoveElement.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode27_RemoveElement\Leetcode27_RemoveElement\obj\Debug\Leetcode27_RemoveElement.pdb
