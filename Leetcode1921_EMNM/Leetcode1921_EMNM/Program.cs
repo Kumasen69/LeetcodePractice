@@ -44,6 +44,7 @@ namespace Leetcode1921_EMNM
                             return count;
                         }
                     }
+                    distList[i] -= speedList[i];
                 }
                 if (nextIndex == -1)
                 {
@@ -53,10 +54,6 @@ namespace Leetcode1921_EMNM
                 distList.RemoveAt(nextIndex);
                 speedList.RemoveAt(nextIndex);
                 count++;
-                for (int i = 0; i < distList.Count; i++)
-                {
-                    distList[i] -= speedList[i];
-                }
             }
         }
     }
