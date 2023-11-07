@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2A73B8D1-3D0B-4735-85A3-AC42D83A4EF2}</ProjectGuid>
+    <ProjectGuid>{120A5F2B-D11E-4C79-ADC8-ADACE29E91EB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Leetcode1921_EliminateMaximumNumberMonsters</RootNamespace>
-    <AssemblyName>Leetcode1921_EliminateMaximumNumberMonsters</AssemblyName>
+    <RootNamespace>Leetcode1921_EMNM</RootNamespace>
+    <AssemblyName>Leetcode1921_EMNM</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

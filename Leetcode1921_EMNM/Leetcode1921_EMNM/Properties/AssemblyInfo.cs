@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // アセンブリに関する一般情報は以下の属性セットをとおして制御されます。
 // 制御されます。アセンブリに関連付けられている情報を変更するには、
 // これらの属性値を変更します。
-[assembly: AssemblyTitle("Leetcode1921_EliminateMaximumNumberMonsters")]
+[assembly: AssemblyTitle("Leetcode1921_EMNM")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Leetcode1921_EliminateMaximumNumberMonsters")]
+[assembly: AssemblyProduct("Leetcode1921_EMNM")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // このプロジェクトが COM に公開される場合、次の GUID が typelib の ID になります
-[assembly: Guid("2a73b8d1-3d0b-4735-85a3-ac42d83a4ef2")]
+[assembly: Guid("120a5f2b-d11e-4c79-adc8-adace29e91eb")]
 
 // アセンブリのバージョン情報は次の 4 つの値で構成されています:
 //

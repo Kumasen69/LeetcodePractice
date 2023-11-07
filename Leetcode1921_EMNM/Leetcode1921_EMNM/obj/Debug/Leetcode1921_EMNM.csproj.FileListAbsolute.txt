@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\bin\Debug\Leetcode1921_EMNM.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\bin\Debug\Leetcode1921_EMNM.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\bin\Debug\Leetcode1921_EMNM.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\obj\Debug\Leetcode1921_EMNM.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\obj\Debug\Leetcode1921_EMNM.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\obj\Debug\Leetcode1921_EMNM.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\Leetcode1921_EMNM\Leetcode1921_EMNM\obj\Debug\Leetcode1921_EMNM.pdb
