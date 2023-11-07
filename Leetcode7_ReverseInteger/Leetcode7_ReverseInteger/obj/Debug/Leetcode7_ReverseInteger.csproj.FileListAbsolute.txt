@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\bin\Debug\Leetcode7_ReverseInteger.exe.config
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\bin\Debug\Leetcode7_ReverseInteger.exe
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\bin\Debug\Leetcode7_ReverseInteger.pdb
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\obj\Debug\Leetcode7_ReverseInteger.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\obj\Debug\Leetcode7_ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\obj\Debug\Leetcode7_ReverseInteger.exe
+C:\Users\huang_yi_xuan\source\repos\Leetcode\Leetcode7_ReverseInteger\Leetcode7_ReverseInteger\obj\Debug\Leetcode7_ReverseInteger.pdb

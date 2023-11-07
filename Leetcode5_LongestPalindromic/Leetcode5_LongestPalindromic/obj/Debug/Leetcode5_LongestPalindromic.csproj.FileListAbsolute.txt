@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\bin\Debug\Leetcode5_LongestPalindromic.exe.config
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\bin\Debug\Leetcode5_LongestPalindromic.exe
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\bin\Debug\Leetcode5_LongestPalindromic.pdb
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\obj\Debug\Leetcode5_LongestPalindromic.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\obj\Debug\Leetcode5_LongestPalindromic.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\obj\Debug\Leetcode5_LongestPalindromic.exe
+C:\Users\huang_yi_xuan\source\repos\Leetcode5_LongestPalindromic\Leetcode5_LongestPalindromic\obj\Debug\Leetcode5_LongestPalindromic.pdb
