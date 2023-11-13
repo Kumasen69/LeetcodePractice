@@ -23,51 +23,101 @@ namespace Leetcode2642_DesignGraph
             edgesList.Add(edge);
         }
 
+        public int GetMinIndex(Dictionary<int, int> distance, bool[] visit)
+        {
+            int min = int.MaxValue;
+            int minIndex = -1;
+            for(int i=0; i < distance.Count; i++)
+            {
+                if(min > distance[i] && !visit[i])
+                {
+                    minIndex = i;
+                    min = distance[i];
+                }
+            }
+
+            return minIndex;
+        }
+
         public int ShortestPath(int node1, int node2)
         {
             //距離初始化
             Dictionary<int, int> distance = new Dictionary<int, int>();
+            bool[] visit = new bool[nodeNum];
+
+            for(int i = 0; i< nodeNum;i++)
+            {
+                distance[i] = int.MaxValue;
+                visit[i] = false;
+            }
+
             distance[node1] = 0;
-
-
-            //廣度搜尋
             Queue<int> queue = new Queue<int>();
-            HashSet<int> visited = new HashSet<int>();
+            queue.Enqueue(GetMinIndex(distance, visit));
 
-            queue.Enqueue(node1);
 
-            while (queue.Count != 0)
+            while(queue.Count != 0)
             {
                 int current = queue.Dequeue();
-                visited.Add(current);
-
-                for (int i = 0; i < edgesList.Count; i++)
+                visit[current] = true;
+                for(int i =0; i <edgesList.Count; i++)
                 {
-                    if (edgesList[i][0] == current)
+                    if(edgesList[i][0] == current)
                     {
                         int neighbor = edgesList[i][1];
-
-                        if (!distance.ContainsKey(neighbor))
-                        {
-                            distance[neighbor] = int.MaxValue;
-                        }
-
                         if (distance[neighbor] > distance[current] + edgesList[i][2])
                         {
                             distance[neighbor] = distance[current] + edgesList[i][2];
                         }
-
-                        if (visited.Contains(neighbor))
-                            continue;
-
-                        queue.Enqueue(neighbor);
-
                     }
                 }
 
+                int next = GetMinIndex(distance, visit);
+                if (next == -1)
+                    break;
+                queue.Enqueue(next);
             }
 
-            if (!distance.ContainsKey(node2))
+
+
+            //廣度搜尋
+            //Queue<int> queue = new Queue<int>();
+            //HashSet<int> visited = new HashSet<int>();
+
+            //queue.Enqueue(node1);
+
+            //while (queue.Count != 0)
+            //{
+            //    int current = queue.Dequeue();
+            //    visited.Add(current);
+
+            //    for (int i = 0; i < edgesList.Count; i++)
+            //    {
+            //        if (edgesList[i][0] == current)
+            //        {
+            //            int neighbor = edgesList[i][1];
+
+            //            if (!distance.ContainsKey(neighbor))
+            //            {
+            //                distance[neighbor] = int.MaxValue;
+            //            }
+
+            //            if (distance[neighbor] > distance[current] + edgesList[i][2])
+            //            {
+            //                distance[neighbor] = distance[current] + edgesList[i][2];
+            //            }
+
+            //            if (visited.Contains(neighbor))
+            //                continue;
+
+            //            queue.Enqueue(neighbor);
+
+            //        }
+            //    }
+
+            //}
+
+            if (distance[node2] == int.MaxValue)
                 return -1;
             else
                 return distance[node2];
