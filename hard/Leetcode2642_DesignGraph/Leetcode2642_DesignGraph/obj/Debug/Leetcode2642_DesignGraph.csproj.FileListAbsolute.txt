@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\bin\Debug\Leetcode2642_DesignGraph.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\bin\Debug\Leetcode2642_DesignGraph.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\bin\Debug\Leetcode2642_DesignGraph.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\obj\Debug\Leetcode2642_DesignGraph.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\obj\Debug\Leetcode2642_DesignGraph.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\obj\Debug\Leetcode2642_DesignGraph.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode2642_DesignGraph\Leetcode2642_DesignGraph\obj\Debug\Leetcode2642_DesignGraph.pdb
