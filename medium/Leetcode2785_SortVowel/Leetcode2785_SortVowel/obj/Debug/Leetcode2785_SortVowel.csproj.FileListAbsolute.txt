@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\bin\Debug\Leetcode2785_SortVowel.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\bin\Debug\Leetcode2785_SortVowel.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\bin\Debug\Leetcode2785_SortVowel.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\obj\Debug\Leetcode2785_SortVowel.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\obj\Debug\Leetcode2785_SortVowel.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\obj\Debug\Leetcode2785_SortVowel.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode2785_SortVowel\Leetcode2785_SortVowel\obj\Debug\Leetcode2785_SortVowel.pdb
