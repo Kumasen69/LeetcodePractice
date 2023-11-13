@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\bin\Debug\Leetcode815_BusRoutes.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\bin\Debug\Leetcode815_BusRoutes.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\bin\Debug\Leetcode815_BusRoutes.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\obj\Debug\Leetcode815_BusRoutes.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\obj\Debug\Leetcode815_BusRoutes.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\obj\Debug\Leetcode815_BusRoutes.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\hard\Leetcode815_BusRoutes\Leetcode815_BusRoutes\obj\Debug\Leetcode815_BusRoutes.pdb
