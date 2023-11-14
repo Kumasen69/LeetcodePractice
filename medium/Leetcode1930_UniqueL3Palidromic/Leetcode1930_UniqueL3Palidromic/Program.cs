@@ -19,6 +19,8 @@ namespace Leetcode1930_UniqueL3Palidromic
     }
     public class Solution
     {
+        //Runtime:  291 ms
+        //Memory:  49.6 MB
         public int CountPalindromicSubsequence(string s)
         {
             Dictionary<char, Point> countCharRange = new Dictionary<char, Point>();
