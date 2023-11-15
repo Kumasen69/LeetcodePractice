@@ -1,0 +1,8 @@
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\bin\Debug\Leetcode1846_MaximumElement.exe.config
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\bin\Debug\Leetcode1846_MaximumElement.exe
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\bin\Debug\Leetcode1846_MaximumElement.pdb
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\obj\Debug\Leetcode1846_MaximumElement.csproj.AssemblyReference.cache
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\obj\Debug\Leetcode1846_MaximumElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\obj\Debug\Leetcode1846_MaximumElement.csproj.CoreCompileInputs.cache
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\obj\Debug\Leetcode1846_MaximumElement.exe
+C:\Users\KMS_69\Desktop\LeetcodePractice\medium\Leetcode1846_MaximumElement\Leetcode1846_MaximumElement\obj\Debug\Leetcode1846_MaximumElement.pdb
