@@ -6,60 +6,97 @@ using System.Threading.Tasks;
 
 namespace Leetcode1424_DTII
 {
+
+    public class Point
+    {
+        public int x;
+        public int y;
+        public Point(int x, int y)
+        {
+            this.x = x;
+            this.y = y;
+        }
+    }
+
     public class Solution
     {
+        
+
         public int[] FindDiagonalOrder(IList<IList<int>> nums)
         {
             List<int> result = new List<int>();
             Dictionary<int, int> pipeLineCount = new Dictionary<int, int>();
-            int maxLenghth = nums.Count;
+
+            Queue<Point> nextPoint = new Queue<Point>();
+
+            nextPoint.Enqueue(new Point(0, 0));
+
+            int height = nums.Count;
             int width = 0;
+
             foreach (var i in nums)
             {
-                maxLenghth = (maxLenghth < i.Count) ? i.Count : maxLenghth;
                 width = (width < i.Count) ? i.Count : width;
-
             }
-            int x, y;
-            x = 0;
-            y = 0;
 
-            for(int i = 0; i< maxLenghth; i++)
+            while (nextPoint.Count != 0)
             {
-                x = i;
-                y = 0;
-
-                while(!(x < 0) && !(y>=maxLenghth))
+                Point now = nextPoint.Dequeue();
+                if (now.y == 0)
                 {
-                    if(nums.Count > x)
-                    {
-                        if (nums[x].Count > y)
-                            result.Add(nums[x][y]);
-                    }
-                    x--;
-                    y++;
-                    if (y > width)
-                        break;
+                    if (now.x + 1 < height)
+                        nextPoint.Enqueue(new Point(now.x + 1, 0));
+                    if (now.y+ 1< nums[now.x].Count)
+                        nextPoint.Enqueue(new Point(now.x, now.y + 1));
                 }
-            }
-
-            for(int i = 1; i<maxLenghth;i++)
-            {
-                x = maxLenghth - 1;
-                y = i;
-                while (!(x < 0) && !(y >= maxLenghth))
+                else
                 {
-                    if (nums.Count > x)
-                    {
-                        if (nums[x].Count > y)
-                            result.Add(nums[x][y]);
-                    }
-                    x--;
-                    y++;
-                    if (y > width)
-                        break;
+                    if (now.y +1 < nums[now.x].Count)
+                        nextPoint.Enqueue(new Point(now.x, now.y + 1));
                 }
+                result.Add(nums[now.x][now.y]);
+
             }
+            //int x, y;
+            //x = 0;
+            //y = 0;
+
+            //for(int i = 0; i< maxLenghth; i++)
+            //{
+            //    x = i;
+            //    y = 0;
+
+            //    while(!(x < 0) && !(y>=maxLenghth))
+            //    {
+            //        if(nums.Count > x)
+            //        {
+            //            if (nums[x].Count > y)
+            //                result.Add(nums[x][y]);
+            //        }
+            //        x--;
+            //        y++;
+            //        if (y > width)
+            //            break;
+            //    }
+            //}
+
+            //for(int i = 1; i<maxLenghth;i++)
+            //{
+            //    x = maxLenghth - 1;
+            //    y = i;
+            //    while (!(x < 0) && !(y >= maxLenghth))
+            //    {
+            //        if (nums.Count > x)
+            //        {
+            //            if (nums[x].Count > y)
+            //                result.Add(nums[x][y]);
+            //        }
+            //        x--;
+            //        y++;
+            //        if (y > width)
+            //            break;
+            //    }
+            //}
 
             //for(int i = 0; i<maxLenghth; i++)
             //{
