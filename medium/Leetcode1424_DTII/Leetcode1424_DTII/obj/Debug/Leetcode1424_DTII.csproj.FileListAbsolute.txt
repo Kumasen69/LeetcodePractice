@@ -1,0 +1,7 @@
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\bin\Debug\Leetcode1424_DTII.exe.config
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\bin\Debug\Leetcode1424_DTII.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\bin\Debug\Leetcode1424_DTII.pdb
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\obj\Debug\Leetcode1424_DTII.csproj.AssemblyReference.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\obj\Debug\Leetcode1424_DTII.csproj.CoreCompileInputs.cache
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\obj\Debug\Leetcode1424_DTII.exe
+C:\Users\huang_yi_xuan\source\repos\LeetcodePractice\medium\Leetcode1424_DTII\Leetcode1424_DTII\obj\Debug\Leetcode1424_DTII.pdb
