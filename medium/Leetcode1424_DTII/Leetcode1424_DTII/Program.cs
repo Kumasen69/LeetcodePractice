@@ -43,7 +43,7 @@ namespace Leetcode1424_DTII
             {
                 Point now = nextPoint.Dequeue();
                 if (now.y == 0)
-                {
+                {　
                     if (now.x + 1 < height)
                         nextPoint.Enqueue(new Point(now.x + 1, 0));
                     if (now.y+ 1< nums[now.x].Count)
