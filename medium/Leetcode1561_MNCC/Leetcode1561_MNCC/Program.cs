@@ -11,10 +11,12 @@ namespace Leetcode1561_MNCC
         public int MaxCoins(int[] piles)
         {
             Array.Sort(piles);
+            int sum = 0;
             for(int i = piles.Length - 2; i >= piles.Length / 3; i -= 2)
             {
-
+                sum += piles[i];
             }
+            return sum; 
         }
     }
     class Program
